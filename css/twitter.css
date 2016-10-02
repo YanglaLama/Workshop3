@@ -1,0 +1,15 @@
+body {
+  padding-top: 60px;
+}
+
+/* Remove the background color and border of all navbar buttons.
+Make their color dark blue, like Facebook. */
+.navbar button {
+  background-color: transparent;
+  border: none;
+  color: lightgray;
+}
+
+.t-search {
+  width: 500px !important;
+}
